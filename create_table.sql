@@ -1,4 +1,4 @@
-CREATE TABLE PERSON
+CREATE TABLE PERSONS
 (
     name           NCHAR (20),
     surname        NCHAR(20),
